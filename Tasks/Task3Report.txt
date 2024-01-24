@@ -1,0 +1,18 @@
+
+Web Server Activity Report
+--------------------------
+
+Total Requests: 9
+
+Top Accessed URLs:
+  [ GET / HTTP/1.1]: 2 requests
+  [ GET /login/index.php HTTP/1.1]: 1 requests
+  [ POST /lib/ajax/service.php?sesskey=G7n90UjyDs&info=core_session_time_remaining&nosessionupdate=true HTTP/1.1]: 1 requests
+  [ POST /lib/ajax/service.php?sesskey=aRgi4E1Krh&info=core_session_time_remaining&nosessionupdate=true HTTP/1.1]: 2 requests
+
+Response Code Distribution:
+  [200]: 4 requests
+  [303]: 2 requests
+  [408]: 3 requests
+
+
